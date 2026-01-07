@@ -33,6 +33,7 @@ Selecting the right scaffold for wound healing is complex due to multiple intera
 - Integration with a clinician-friendly UI
 - Inclusion of temporal healing data
 - Deep learning-based models
+- Valid scientific proof for results can be listed
 
 ## 👤 My Contribution
 - Dataset preprocessing and integration
